@@ -1,3 +1,7 @@
+Tips:   Run the Test Case to see the output of userStory1, userStory2 and userStory3.
+        userStory2 and userStory3 has been implemented in userStory1 as a decorator.
+        Output of userStory3 will be generated inside Test folder.
+
 PROBLEM :
 
 The problem has 4 user stories for which the candidate has to revert with a well designed,well documented code along with the unit tests. 
